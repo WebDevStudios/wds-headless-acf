@@ -1,5 +1,5 @@
 {
-  "name": "webdevstudios/headless-acf",
+  "name": "webdevstudios/wds-headless-acf",
   "description": "WDS Headless extension handling Advanced Custom Fields functionality.",
   "homepage": "https://github.com/WebDevStudios/nextjs-wordpress-starter",
   "type": "wordpress-plugin",
